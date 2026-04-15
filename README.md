@@ -18,6 +18,7 @@ This simulation is written in standard C++ and has no external dependencies.
 3. **Execution**
    ```bash
    ./cache_sim
+
    
 ### **Testing & Simulation Flow**
 
