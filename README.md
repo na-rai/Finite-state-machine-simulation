@@ -18,11 +18,9 @@ This simulation is written in standard C++ and has no external dependencies.
 3. **Execution**
    ```bash
    ./cache_sim
-
-
-
    
 ### **Testing & Simulation Flow**
+
 
 The simulation executes a pre-defined sequence of memory requests to demonstrate how the FSM handles different cache scenarios. Each request shows the state transitions and the resulting state of the cache table.
 
