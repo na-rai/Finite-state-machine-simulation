@@ -11,12 +11,12 @@ This simulation is written in standard C++ and has no external dependencies.
 
     Prerequisites: A C++ compiler (GCC, Clang, or MSVC).
 
-    Compilation:
+    # Compilation:
     Bash
 
     g++ -o cache_sim main.cpp
 
-    Execution:
+    # Execution:
     Bash
 
     ./cache_sim
