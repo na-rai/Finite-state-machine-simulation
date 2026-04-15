@@ -5,7 +5,7 @@ Project Title: Cache FSM Simulator (Write-Back/Write-Allocate)
 
 This project is a cycle-accurate behavioral simulation of a Direct-Mapped Cache controller. It implements a Finite State Machine (FSM) that manages data movement between the CPU and Main Memory, handling hits, misses, and dirty-block evictions.
 
-### **How to Build and Run**
+# How to Build and Run
 
 This simulation is written in standard C++ and has no external dependencies.
 
@@ -19,7 +19,7 @@ This simulation is written in standard C++ and has no external dependencies.
    ```bash
    ./cache_sim
    
-### **Testing & Simulation Flow**
+# Testing & Simulation Flow
 
 
 The simulation executes a pre-defined sequence of memory requests to demonstrate how the FSM handles different cache scenarios. Each request shows the state transitions and the resulting state of the cache table.
