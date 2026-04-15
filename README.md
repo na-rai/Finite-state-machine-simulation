@@ -15,3 +15,7 @@ This simulation is written in standard C++ and has no external dependencies.
    ```bash
    g++ -o cache_sim main.cpp
     
+3. **Execution**
+   ```bash
+   ./cache_sim
+   
